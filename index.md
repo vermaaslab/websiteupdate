@@ -3,7 +3,7 @@
 
 # vermaaslab's Website
 
-An engaging 1-3 sentence description of your lab.
+The Vermaas lab, housed within the [Plant Research Laboratory](https://prl.natsci.msu.edu/) at [Michigan State University](https://msu.edu) uses atomic simulation tools to create accurate molecular-scale models for biological phenomena at the nanoscale. In this form of computational microscopy, Newton’s equations of motion track atomic positions for a system over time. The dynamic simulations provide a unique perspective to better understand the connection between form and function for nanostructures found throughout biology. The insights from these simulations can then applied to engineering plants or microbes to facilitate efficient energy conversion and bioproduct production to meet today’s sustainability challenges.
 
 {% include section.html %}
 
@@ -15,7 +15,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include button.html
-  link="research"
+  link="publications"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -27,7 +27,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
+  link="publications"
   title="Our Research"
   text=text
 %}
