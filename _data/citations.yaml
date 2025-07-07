@@ -19,7 +19,7 @@
   type: paper
   description: Bringing together simulation and experiment, we identify residues involved
     in protein binding for human cis-prenyltransferase to the membrane.
-  image: images/pubpic/hcispt.png
+  image: ./images/pubpic/hcispt.png
   tags:
   - membrane-protein interaction
   - small molecule
