@@ -5,6 +5,6 @@
 
   # vermaaslab's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[vermaaslab.github.io/websiteupdate](https://vermaaslab.github.io/websiteupdate)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
