@@ -1,23 +1,25 @@
-- id: doi:10.1371/journal.pcbi.1007128
+- id: doi:10.1002/pro.70167
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
+  description: Bringing together simulation and experiment, we identify residues involved in protein binding for human cis-prenyltransferase to the membrane.
+  image: images/pubpics/hcispt.png
   tags:
-    - open science
+    - membrane-protein interaction
+    - small molecule
     - collaboration
-  repo: greenelab/meta-review
+    - healthy
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: doi:10.1002/csc2.70066
+  type: review
+  description: Review article on sorgoleone, a natural herbicide made by sorghum.
+  tags:
+    - small molecule
+    - collaboration
+    - planty
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1021/acssynbio.4c00290
+  type: paper
+  description: Combination of timeseries for light emitted by encapsulated luciferases, which gives us a quantitative estimate for permeability for substrates and products. Turns out open shells missing pentameric capping units are about 50x more permeable.
+  image: https://pubs.acs.org/toc/asbcd6/14/5
+  tags:
+    - collaboration
+    - microcompartment
