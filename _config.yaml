@@ -8,9 +8,9 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@your-lab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: vermaasj@msu.edu
+  orcid: 0000-0003-3139-6469
+  google-scholar: WSWCJ-gAAAAJ
   github: your-lab
   twitter: YourLabHandle
   youtube: YourLabChannel
@@ -30,18 +30,18 @@ defaults:
     values:
       layout: member
   # markdown files in /_posts
-  - scope:
-      type: "posts"
-    values:
-      layout: post
+  #- scope:
+  #    type: "posts"
+  #  values:
+  #    layout: post
 
 collections:
   # generate page for each member
   members:
     output: true
   # generate page for each post
-  posts:
-    output: true
+  #posts:
+  #  output: true
 
 # jekyll plugins
 plugins:
