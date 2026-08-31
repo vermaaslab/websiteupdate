@@ -1,8 +1,310 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1073/pnas.2607702123
+  title: A peripheral carboxysome component regulates cyanobacterial glycogen deposition
+  authors:
+  - Joshua S. MacCready
+  - Duncan M. Boren
+  - "Mar\xEDa Santos-Merino"
+  - Luke A. Sharpe
+  - Sigal Lechno-Yossef
+  - Josh V. Vermaas
+  - Daniel C. Ducat
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2026-08-17'
+  link: https://doi.org/hcgk99
+  orcid: 0000-0003-3139-6469
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acsnano.6c07948
+  title: 'Molecular Design
+
+    Principles for Photosystem I-Based
+
+    Biohybrid Solar Fuel Catalysts'
+  authors:
+  - Maximino D. Emerson
+  - Siva Naga Sai Damaraju
+  - Audrey H. Short
+  - Zachary B. Alvord
+  - Zsolt A. Palmer
+  - Himanshu S. Mehra
+  - Christian M. Brininger
+  - Josh V. Vermaas
+  - Lisa M. Utschig
+  - Christopher J. Gisriel
+  publisher: ACS Nano
+  date: '2026-08-20'
+  link: https://doi.org/hcgmbb
+  orcid: 0000-0003-3139-6469
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/pcp/pcag047
+  title: A conserved sequence insert of fibrillins is involved in plastoglobule association
+    and lipid binding
+  authors:
+  - Kiran-Kumar Shivaiah
+  - Roselane Kithan-Lundquist
+  - April K Kaneshiro
+  - Duncan M Boren
+  - Febri A Susanto
+  - Andres Herrera-Tequia
+  - Josh V Vermaas
+  - Peter K Lundquist
+  publisher: Plant and Cell Physiology
+  date: '2026-04-14'
+  link: https://doi.org/hbxp3p
+  orcid: 0000-0003-3139-6469
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acssuschemeng.6c04782
+  title: "Evaluating the Transport Mechanism for Lignocellulosic Inhibitors in\n \
+    \                   <i>Zymomonas mobilis</i>"
+  authors:
+  - Nitin Kumar Singh
+  - Josh V. Vermaas
+  publisher: ACS Sustainable Chemistry &amp; Engineering
+  date: '2026-07-16'
+  link: https://doi.org/hcfwk4
+  orcid: 0000-0003-3139-6469
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.64898/2026.06.05.730297
+  title: 'Small but Mighty: The Surprising Metabolic Range of a Bacterial Microcompartment'
+  authors:
+  - Dorian Gregnanin
+  - Denis Jallet
+  - Andrew W. Strong
+  - "L\xE9a Jasse"
+  - Vanessa Soldan
+  - Evelyne Deery
+  - Martin Warren
+  - Pierre Millard
+  - Josh V. Vermaas
+  - "St\xE9phanie Heux"
+  publisher: openRxiv
+  date: '2026-06-07'
+  link: https://doi.org/hb7pzk
+  orcid: 0000-0003-3139-6469
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0350738
+  title: A Lipoxygenase 3 mutation reverses growth phenotypes in an Arabidopsis Plastid
+    Lipase 3 overexpression line
+  authors:
+  - Yosia Mugume
+  - Ron Cook
+  - Breana Hagerty
+  - Jinjie Liu
+  - Zachary B. Alvord
+  - Linda Danhof
+  - John E. Froehlich
+  - Josh V. Vermaas
+  - Christoph Benning
+  publisher: PLOS One
+  date: '2026-06-02'
+  link: https://doi.org/hb6v6b
+  orcid: 0000-0003-3139-6469
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.64898/2026.03.23.713776
+  title: Molecular design principles for Photosystem I-based biohybrid solar fuel
+    catalysts
+  authors:
+  - Maximino D. Emerson
+  - Siva Naga Sai Damaraju
+  - Audrey H. Short
+  - Zachary B. Alvord
+  - Zsolt A. Palmer
+  - Himanshu S. Mehra
+  - Christian M. Brininger
+  - Josh V. Vermaas
+  - Lisa M. Utschig
+  - Christopher J. Gisriel
+  publisher: openRxiv
+  date: '2026-03-25'
+  link: https://doi.org/hbt89w
+  orcid: 0000-0003-3139-6469
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.jpcb.5c06231
+  title: "Quantifying Membrane Structure and Dynamics during Bioproduct Production\
+    \ in\n                    <i>Zymomonas mobilis</i>\n                    by Molecular\
+    \ Simulation"
+  authors:
+  - Nitin Kumar Singh
+  - Josh V. Vermaas
+  publisher: The Journal of Physical Chemistry B
+  date: '2026-02-18'
+  link: https://doi.org/hbp93g
+  orcid: 0000-0003-3139-6469
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.64898/2026.01.28.702358
+  title: Encapsulation in a bacterial microcompartment shell improves thermal stability
+    of a glycolytic enzyme
+  authors:
+  - Nicholas M. Tefft
+  - Neetu S. Yadav
+  - Megan C. Gruenberg Cross
+  - Charles D. Swiggett
+  - Kristin N. Parent
+  - Josh V. Vermaas
+  - Michaela A. TerAvest
+  publisher: openRxiv
+  date: '2026-01-29'
+  link: https://doi.org/hbncpq
+  orcid: 0000-0003-3139-6469
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acsomega.5c04983
+  title: "Dynamics and Structural Responses to Cis\u2013Trans Isomerization in Bacterial\
+    \ Lipid Bilayers"
+  authors:
+  - Saad Raza
+  - Troy H. Sievertsen
+  - Majid Jafari
+  - Josh V. Vermaas
+  publisher: ACS Omega
+  date: '2026-01-01'
+  link: https://doi.org/hbhrsj
+  orcid: 0000-0003-3139-6469
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.64898/2025.12.23.696271
+  title: "Oxidative Stress-Responsive Cell Wall Remodeling Depends on Phosphate in\n\
+    \                  <i>Candida albicans</i>"
+  authors:
+  - Anand Jacob
+  - Wanjun Qi
+  - Jayasubba Reddy Yarava
+  - Murtaza Barkarar
+  - Aswath Karai
+  - Josh V. Vermaas
+  - "Julia R. K\xF6hler"
+  - Tuo Wang
+  publisher: openRxiv
+  date: '2025-12-24'
+  link: https://doi.org/hbg9f5
+  orcid: 0000-0003-3139-6469
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.11.14.688473
+  title: Screening for residues in Atg11, a central organizer of selective autophagy
+    in yeast, important for binding with Atg9
+  authors:
+  - Chimi Dolker Sherpa
+  - Patricia Woghiren
+  - Erin Leonello
+  - Mina Abdel-Khalek
+  - Benjamin J. Schuessler
+  - Josh V. Vermaas
+  - Steven K. Backues
+  publisher: openRxiv
+  date: '2025-11-14'
+  link: https://doi.org/hbbnbh
+  orcid: 0000-0003-3139-6469
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.10.30.685559
+  title: "IRE1 Regulates TOR Signaling via RIDD of\n                  <i>RAPTOR1b</i>\n\
+    \                  to Coordinate Growth and Stress Adaptation"
+  authors:
+  - Brandon C. Reagan
+  - Joo Yong Kim
+  - Evan Angelos
+  - Josh V. Vermaas
+  - Federica Brandizzi
+  publisher: openRxiv
+  date: '2025-10-31'
+  link: https://doi.org/g98xkd
+  orcid: 0000-0003-3139-6469
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/jacs.5c12301
+  title: Anionic Lipids Regulate the Light-Harvesting Complex 1-Reaction Center Photocycle
+    in Purple Bacteria
+  authors:
+  - Olivia C. Fiebig
+  - Graham P. Schmidt
+  - Neetu Singh Yadav
+  - Dihao Wang
+  - Muath Nairat
+  - Helen Tang
+  - Yi Ji
+  - "Val\xE9rie Prima"
+  - James N. Sturgis
+  - Josh V. Vermaas
+  - Dvir Harris
+  - Gabriela S. Schlau-Cohen
+  publisher: Journal of the American Chemical Society
+  date: '2025-09-23'
+  link: https://doi.org/g948xs
+  orcid: 0000-0003-3139-6469
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.biomac.5c00391
+  title: Quantifying Chemically Modified Acetylation Induced Changes in the Plant
+    Secondary Cell Wall Structure and Dynamics
+  authors:
+  - Murtaza Barkarar
+  - Daipayan Sarkar
+  - Christopher G. Hunt
+  - Josh V. Vermaas
+  publisher: Biomacromolecules
+  date: '2025-08-21'
+  link: https://doi.org/g9x4bn
+  orcid: 0000-0003-3139-6469
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.26434/chemrxiv-2025-4x39v
+  title: Quantifying Selective Metabolite Transport for the Bacterial Microcompartment
+    from Haliangium ochraceum with Molecular Dynamics Simulations
+  authors:
+  - Neetu Yadav
+  - Saad Raza
+  - Yali Wang
+  - Joel Landa
+  - Eric Hegg
+  - Robert Hausinger
+  - Josh Vermaas
+  publisher: American Chemical Society (ACS)
+  date: '2025-07-29'
+  link: https://doi.org/g9v258
+  orcid: 0000-0003-3139-6469
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.26434/chemrxiv-2025-039zg
+  title: Molecular Insights into Zymomonas mobilis Membrane Interactions with Lignocellulosic
+    Inhibitors
+  authors:
+  - Nitin Kumar Singh
+  - Josh Vermaas
+  publisher: American Chemical Society (ACS)
+  date: '2025-07-28'
+  link: https://doi.org/g9v26b
+  orcid: 0000-0003-3139-6469
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.26434/chemrxiv-2025-1lktx
+  title: Molecular Modeling and Molecular Dynamics Simulation of a Packed and Intact
+    Bacterial Microcompartment
+  authors:
+  - Saad Raza
+  - Neetu Singh Yadav
+  - Alexander Jussupow
+  - Cheryl Kerfeld
+  - Michael Feig
+  - Josh Vermaas
+  publisher: American Chemical Society (ACS)
+  date: '2025-07-28'
+  link: https://doi.org/g9v26c
+  orcid: 0000-0003-3139-6469
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/pro.70167
-  title: "Identifying and quantifying membrane interactions of the protein human <i>cis</i>\u2010\
-    prenyltransferase"
+  title: "Identifying and quantifying membrane interactions of the protein human\n\
+    \                    <i>cis</i>\n                    \u2010prenyltransferase"
   authors:
   - Duncan M. Boren
   - Shiri Kredi
@@ -76,20 +378,6 @@
   - small molecule
   - collaboration
   - planty
-- id: doi:10.26434/chemrxiv-2024-zj7sn-v2
-  title: Quantifying acetylation-induced changes in the plant secondary cell wall
-    structure and dynamics
-  authors:
-  - Murtaza Barkarar
-  - Daipayan Sarkar
-  - Christopher Hunt
-  - Josh Vermaas
-  publisher: American Chemical Society (ACS)
-  date: '2025-03-20'
-  link: https://doi.org/g9sg5h
-  orcid: 0000-0003-3139-6469
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.26434/chemrxiv-2025-jm423
   title: Dynamics and structural responses to cis-trans isomerization in bacterial
     lipid bilayers
@@ -131,7 +419,7 @@
   - Yoni Haitin
   - Josh Vermaas
   publisher: American Chemical Society (ACS)
-  date: '2024-12-30'
+  date: '2024-12-29'
   link: https://doi.org/g9sg5m
   orcid: 0000-0003-3139-6469
   plugin: orcid.py
@@ -167,7 +455,7 @@
   - Daipayan Sarkar
   - Josh Vermaas
   publisher: American Chemical Society (ACS)
-  date: '2024-11-29'
+  date: '2024-11-28'
   link: https://doi.org/g9sg5p
   orcid: 0000-0003-3139-6469
   plugin: orcid.py
@@ -256,7 +544,7 @@
   - Mauricio Tejera-Nieves
   - Josh V. Vermaas
   - Berkley J. Walker
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-05-05'
   link: https://doi.org/g9sg5v
   orcid: 0000-0003-3139-6469
@@ -278,26 +566,6 @@
   orcid: 0000-0003-3139-6469
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2024.03.12.584231
-  title: Comparative Pore Structure and Dynamics for Bacterial Microcompartment Shell
-    Protein Assemblies in Sheets or Shells
-  authors:
-  - Saad Raza
-  - Daipayan Sarkar
-  - Leanne Jade G. Chan
-  - Joshua Mae
-  - Markus Sutter
-  - Christopher J. Petzold
-  - Cheryl A. Kerfeld
-  - Corie Y. Ralston
-  - Sayan Gupta
-  - Josh V. Vermaas
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-03-12'
-  link: https://doi.org/g9sg5x
-  orcid: 0000-0003-3139-6469
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1063/5.0186958
   title: Electron transfer in a crystalline cytochrome with four hemes
   authors:
@@ -309,22 +577,6 @@
   publisher: The Journal of Chemical Physics
   date: '2024-02-09'
   link: https://doi.org/g9sg5z
-  orcid: 0000-0003-3139-6469
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.26434/chemrxiv-2024-kbcdf
-  title: Atomic View of Photosynthetic Metabolite Permeability Pathways and Confinement
-    in Cyanobacterial Carboxysomes
-  authors:
-  - Daipayan Sarkar
-  - Christopher Maffeo
-  - Markus Sutter
-  - Aleksei Aksimentiev
-  - Cheryl Kerfeld
-  - Josh Vermaas
-  publisher: American Chemical Society (ACS)
-  date: '2024-02-12'
-  link: https://doi.org/g9sg52
   orcid: 0000-0003-3139-6469
   plugin: orcid.py
   file: orcid.yaml
@@ -344,40 +596,27 @@
   orcid: 0000-0003-3139-6469
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.plantsci.2023.111900
-  title: PLAT domain protein 1 (PLAT1/PLAFP) binds to the Arabidopsis thaliana plasma
-    membrane and inserts a lipid
+- id: doi:10.26434/chemrxiv-2023-8z8d7
+  title: PLAT Domain Protein 1 (PLAT1/PLAFP) Binds to the Arabidopsis thaliana Plasma
+    Membrane and Inserts a Lipid
   authors:
   - Martin Kulke
   - Evan Kurtz
-  - Duncan M. Boren
-  - Dayna M. Olson
-  - Amanda M. Koenig
+  - Duncan Boren
+  - Dayna Olson
+  - Amanda Koenig
   - Susanne Hoffmann-Benning
-  - Josh V. Vermaas
-  publisher: Plant Science
-  date: '2024-01-01'
-  link: https://doi.org/g9sg54
-  orcid: 0000-0003-3139-6469
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.phytochem.2023.113891
-  title: Passive permeability controls synthesis for the allelochemical sorgoleone
-    in sorghum root exudate
-  authors:
-  - Saad Raza
-  - Troy H. Sievertsen
-  - Sakiko Okumoto
-  - Josh V. Vermaas
-  publisher: Phytochemistry
-  date: '2024-01-01'
-  link: https://doi.org/g9sg55
+  - Josh Vermaas
+  publisher: American Chemical Society (ACS)
+  date: '2023-05-17'
+  link: https://doi.org/g9sg6g
   orcid: 0000-0003-3139-6469
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1021/acs.jpcb.3c06273
-  title: Computing the Relative Affinity of Chlorophylls <i>a</i> and <i>b</i> to
-    Light-Harvesting Complex II
+  title: "Computing the Relative Affinity of Chlorophylls\n                    <i>a</i>\n\
+    \                    and\n                    <i>b</i>\n                    to\
+    \ Light-Harvesting Complex II"
   authors:
   - Gehan A. Ranepura
   - Junjun Mao
@@ -438,26 +677,9 @@
   - Andres Tequia-Herrera
   - Josh Vermaas
   - Peter Knut Lundquist
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-09-29'
   link: https://doi.org/g9sg59
-  orcid: 0000-0003-3139-6469
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1021/acs.jcim.3c00350
-  title: Adaptive Ensemble Refinement of Protein Structures in High Resolution Electron
-    Microscopy Density Maps with Radical Augmented Molecular Dynamics Flexible Fitting
-  authors:
-  - Daipayan Sarkar
-  - Hyungro Lee
-  - John W. Vant
-  - Matteo Turilli
-  - Josh V. Vermaas
-  - Shantenu Jha
-  - Abhishek Singharoy
-  publisher: Journal of Chemical Information and Modeling
-  date: '2023-09-04'
-  link: https://doi.org/g9sg6b
   orcid: 0000-0003-3139-6469
   plugin: orcid.py
   file: orcid.yaml
@@ -487,54 +709,9 @@
   - "Jean-Paul Latg\xE9"
   - Ping Wang
   - Tuo Wang
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-08-12'
   link: https://doi.org/g9sg6d
-  orcid: 0000-0003-3139-6469
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1111/pce.14609
-  title: Nanoscale simulation of the thylakoid membrane response to extreme temperatures
-  authors:
-  - Martin Kulke
-  - Sarathi M. Weraduwage
-  - Thomas D. Sharkey
-  - Josh V. Vermaas
-  publisher: Plant, Cell &amp; Environment
-  date: '2023-05-22'
-  link: https://doi.org/g9sg6f
-  orcid: 0000-0003-3139-6469
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.26434/chemrxiv-2023-8z8d7
-  title: PLAT Domain Protein 1 (PLAT1/PLAFP) Binds to the Arabidopsis thaliana Plasma
-    Membrane and Inserts a Lipid
-  authors:
-  - Martin Kulke
-  - Evan Kurtz
-  - Duncan Boren
-  - Dayna Olson
-  - Amanda Koenig
-  - Susanne Hoffmann-Benning
-  - Josh Vermaas
-  publisher: American Chemical Society (ACS)
-  date: '2023-05-17'
-  link: https://doi.org/g9sg6g
-  orcid: 0000-0003-3139-6469
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.26434/chemrxiv-2023-4ndh3-v2
-  title: Long Range Electron Transport Rates Depend on Wire Dimensions in Cytochrome
-    Nanowires
-  authors:
-  - Martin Kulke
-  - Dayna Olson
-  - Jingcheng Huang
-  - David Kramer
-  - Josh Vermaas
-  publisher: American Chemical Society (ACS)
-  date: '2023-05-15'
-  link: https://doi.org/g9sg6h
   orcid: 0000-0003-3139-6469
   plugin: orcid.py
   file: orcid.yaml
@@ -560,7 +737,7 @@
   - David Kramer
   - Josh Vermaas
   publisher: American Chemical Society (ACS)
-  date: '2023-04-28'
+  date: '2023-04-27'
   link: https://doi.org/g9sg6k
   orcid: 0000-0003-3139-6469
   plugin: orcid.py
@@ -582,20 +759,6 @@
   publisher: Scientific Data
   date: '2023-03-28'
   link: https://doi.org/g9sg6m
-  orcid: 0000-0003-3139-6469
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1021/acs.jpcb.2c07209
-  title: Plant Terpenoid Permeability through Biological Membranes Explored via Molecular
-    Simulations
-  authors:
-  - Saad Raza
-  - Mykayla Miller
-  - "Bj\xF6rn Hamberger"
-  - Josh V. Vermaas
-  publisher: The Journal of Physical Chemistry B
-  date: '2023-01-30'
-  link: https://doi.org/g9sg6n
   orcid: 0000-0003-3139-6469
   plugin: orcid.py
   file: orcid.yaml
@@ -696,7 +859,7 @@
   - "Bj\xF6rn Hamberger"
   - Josh Vermaas
   publisher: American Chemical Society (ACS)
-  date: '2022-10-13'
+  date: '2022-10-12'
   link: https://doi.org/g9sg6v
   orcid: 0000-0003-3139-6469
   plugin: orcid.py
@@ -710,18 +873,6 @@
   publisher: Journal of Chemical Theory and Computation
   date: '2022-09-21'
   link: https://doi.org/g9sg6w
-  orcid: 0000-0003-3139-6469
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.26434/chemrxiv-2022-9j7zv
-  title: Atomistic Origins of Biomass Recalcitrance in Organosolv Pretreatment
-  authors:
-  - Daipayan Sarkar
-  - Ian Santiago
-  - Josh Vermaas
-  publisher: American Chemical Society (ACS)
-  date: '2022-09-23'
-  link: https://doi.org/g9sg6x
   orcid: 0000-0003-3139-6469
   plugin: orcid.py
   file: orcid.yaml
@@ -788,7 +939,7 @@
   - Josh V. Vermaas
   - Shantenu Jha
   - Abhishek Singharoy
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-12-09'
   link: https://doi.org/g9sg62
   orcid: 0000-0003-3139-6469
@@ -870,8 +1021,9 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1021/acs.jcim.0c01010
-  title: Supercomputer-Based Ensemble Docking Drug Discovery Pipeline with Application
-    to Covid-19
+  title: 'Supercomputer-Based Ensemble Docking Drug Discovery
+
+    Pipeline with Application to Covid-19'
   authors:
   - A. Acharya
   - R. Agarwal
@@ -1399,14 +1551,20 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1021/jp4089113
-  title: 'Partitioning of Amino Acids into a Model Membrane: Capturing the Interface'
+  title: 'Partitioning
+
+    of Amino Acids into a Model Membrane:
+
+    Capturing the Interface'
   authors:
   - Taras V. Pogorelov
   - Josh V. Vermaas
   - Mark J. Arcario
   - Emad Tajkhorshid
-  publisher: The Journal of Physical Chemistry B
-  date: '2014-01-30'
+  publisher: 'The Journal
+
+    of Physical Chemistry B'
+  date: '2014-01-22'
   link: https://doi.org/f5sd3t
   orcid: 0000-0003-3139-6469
   plugin: orcid.py
@@ -1446,6 +1604,21 @@
   publisher: Computational Biophysics of Membrane Proteins
   date: '2016-12-05'
   link: https://doi.org/g9sg7f
+  orcid: 0000-0003-3139-6469
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.20944/preprints202608.1429.v1
+  title: Regulation of Membrane Association and Downstream Effector Interaction of
+    K-Ras by Its Hypervariable Region
+  authors:
+  - Anda Trifan
+  - Hossein Omidi Ardali
+  - Josh V. Vermaas
+  - Till Rudack
+  - Emad Tajkhorshid
+  publisher: MDPI AG
+  date: '2026-08-20'
+  link: https://doi.org/hcg8nm
   orcid: 0000-0003-3139-6469
   plugin: orcid.py
   file: orcid.yaml
